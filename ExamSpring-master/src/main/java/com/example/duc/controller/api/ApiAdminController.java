@@ -1,7 +1,7 @@
-package com.example.ninh.controller.api;
+package com.example.duc.controller.api;
 
-import com.example.ninh.entity.HumanEntity;
-import com.example.ninh.service.HumanService;
+import com.example.duc.entity.HumanEntity;
+import com.example.duc.service.HumanService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

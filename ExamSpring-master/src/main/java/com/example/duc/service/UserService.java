@@ -1,7 +1,7 @@
-package com.example.ninh.service;
+package com.example.duc.service;
 
-import com.example.ninh.entity.UserEntity;
-import com.example.ninh.repo.UserRepo;
+import com.example.duc.entity.UserEntity;
+import com.example.duc.repo.UserRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

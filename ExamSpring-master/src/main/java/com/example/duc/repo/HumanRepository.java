@@ -1,6 +1,6 @@
-package com.example.ninh.repo;
+package com.example.duc.repo;
 
-import com.example.ninh.entity.HumanEntity;
+import com.example.duc.entity.HumanEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

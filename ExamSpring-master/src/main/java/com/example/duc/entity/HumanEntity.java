@@ -1,4 +1,4 @@
-package com.example.ninh.entity;
+package com.example.duc.entity;
 
 import javax.persistence.*;
 import java.util.Objects;

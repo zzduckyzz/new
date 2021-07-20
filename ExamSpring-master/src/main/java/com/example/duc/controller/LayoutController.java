@@ -1,4 +1,4 @@
-package com.example.ninh.controller;
+package com.example.duc.controller;
 
 
 import org.springframework.stereotype.Controller;

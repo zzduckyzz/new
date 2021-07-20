@@ -1,7 +1,7 @@
-package com.example.ninh.service;
+package com.example.duc.service;
 
-import com.example.ninh.entity.HumanEntity;
-import com.example.ninh.repo.HumanRepository;
+import com.example.duc.entity.HumanEntity;
+import com.example.duc.repo.HumanRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

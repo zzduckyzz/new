@@ -1,4 +1,4 @@
-package com.example.ninh.entity;
+package com.example.duc.entity;
 
 import javax.persistence.*;
 
@@ -13,13 +13,13 @@ public class RoleEntity {
     private String name;
 
     @OneToOne(mappedBy = "role")
-    private com.example.ninh.entity.UserEntity role;
+    private com.example.duc.entity.UserEntity role;
 
-    public com.example.ninh.entity.UserEntity getRole() {
+    public com.example.duc.entity.UserEntity getRole() {
         return role;
     }
 
-    public void setRole(com.example.ninh.entity.UserEntity role) {
+    public void setRole(com.example.duc.entity.UserEntity role) {
         this.role = role;
     }
 

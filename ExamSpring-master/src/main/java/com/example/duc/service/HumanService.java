@@ -1,6 +1,6 @@
-package com.example.ninh.service;
+package com.example.duc.service;
 
-import com.example.ninh.entity.HumanEntity;
+import com.example.duc.entity.HumanEntity;
 
 import java.util.List;
 import java.util.Optional;

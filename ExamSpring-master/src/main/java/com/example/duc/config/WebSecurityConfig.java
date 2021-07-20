@@ -1,6 +1,6 @@
-package com.example.ninh.config;
+package com.example.duc.config;
 
-import com.example.ninh.service.UserService;
+import com.example.duc.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
